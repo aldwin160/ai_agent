@@ -1,0 +1,1 @@
+print("The expression 3 + 7 * 2 equals 17 due to the order of operations (multiplication before addition). If you intended to add 3 and 7 first, you should use parentheses: (3 + 7) * 2, which equals 20.")

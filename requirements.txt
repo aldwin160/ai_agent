@@ -1,0 +1,7 @@
+"""
+So that anyone who downloads the project can install the exact libraries needed with one command:
+
+pip install -r requirements.txt
+"""
+google-genai==1.12.1
+python-dotenv==1.1.0
